@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_complete_guide/question.dart';
+import 'answer.dart';
 
 // void main() {
 //   runApp(MyApp());
@@ -8,25 +10,42 @@ void main() => runApp(MyApp());
 
 class MyApp extends StatefulWidget {
   @override
-  State<MyApp> createState() => _MyAppState();
+  State<StatefulWidget> createState() {
+    return _MyAppState();
+  }
 }
 
 class _MyAppState extends State<MyApp> {
-  var questionIndex = 0;
+  final questions = [
+    {
+      'questionText': 'What\'s your favorite colour?',
+      'answers': ['Black', 'Red', 'Green', 'White'],
+    },
+    {
+      'questionText': 'What\'s your favorite animal?',
+      'answers': ['Rabbit', 'Snake', 'ELephant', 'Lion'],
+    },
+    {
+      'questionText': 'Who\'s your favorite instructor?',
+      'answers': ['Max', 'Max', 'Max', 'Max'],
+    },
+  ];
+  var _questionIndex = 0;
 
-  void answerQuestion() {
+  void _answerQuestion() {
+    // var aBool = true;
+    // aBool = false;
     setState(() {
-      questionIndex++;
+      _questionIndex++;
     });
-    print(questionIndex);
+
+    if (_questionIndex < questions.length) {
+      print('We have more questions!');
+    }
   }
 
   @override
   Widget build(BuildContext context) {
-    var questions = [
-      'What\'s your favorite colour?',
-      'What\'s your favorite animal?'
-    ];
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
@@ -35,30 +54,13 @@ class _MyAppState extends State<MyApp> {
         ),
         body: Column(
           children: <Widget>[
-            Text(
-              questions[questionIndex],
+            Question(
+              questions[_questionIndex]['questionText'].toString(),
             ),
-            SizedBox(
-              height: 10,
-            ),
-            ElevatedButton(
-              child: Text('Answer 1'),
-              onPressed: answerQuestion,
-            ),
-            SizedBox(
-              height: 10,
-            ),
-            ElevatedButton(
-              child: Text('Answer 2'),
-              onPressed: answerQuestion,
-            ),
-            SizedBox(
-              height: 10,
-            ),
-            ElevatedButton(
-              child: Text('Answer 3'),
-              onPressed: answerQuestion,
-            ),
+            ...(questions[_questionIndex]['answers'] as List<String>)
+                .map((answer) {
+              return Answer(_answerQuestion, answer);
+            }).toList()
           ],
         ),
       ),
