@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-basement-18.1.0-0 C:\Users\User\.gradle\caches\transforms-3\25dc677a896753b98e0eab71b4168723\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-base-18.0.1-1 C:\Users\User\.gradle\caches\transforms-3\7d07c245ac0e9227dc44c72c50371df7\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-java-1.0.0-beta04-2 C:\Users\User\.gradle\caches\transforms-3\8798b633fcf50a9325849a8fb18c5813\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-annotation-experimental-1.1.0-3 C:\Users\User\.gradle\caches\transforms-3\bf37e210e7cdbeaa4248f1c7a730c294\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-1.0.0-beta04-4 C:\Users\User\.gradle\caches\transforms-3\c30eb3a3a3734934b3176d38ff4a782d\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-core-1.6.0-5 C:\Users\User\.gradle\caches\transforms-3\dbb7d992d6d4e6a2ae928bf888e605ca\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-firebase-common-20.3.2-6 C:\Users\User\.gradle\caches\transforms-3\f09b98e2d0eaf942eff78c473e61a695\transformed\jetified-firebase-common-20.3.2\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-main-7 C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.8.1\android\src\main\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-release-8 C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.8.1\android\src\release\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-pngs-9 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\cloud_firestore\generated\res\pngs\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-resValues-10 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\cloud_firestore\generated\res\resValues\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-rs-11 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\cloud_firestore\generated\res\rs\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-12 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\cloud_firestore\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-13 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\cloud_firestore\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-merged_res-14 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\cloud_firestore\intermediates\merged_res\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-packaged_res-15 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\firebase_core\intermediates\packaged_res\release

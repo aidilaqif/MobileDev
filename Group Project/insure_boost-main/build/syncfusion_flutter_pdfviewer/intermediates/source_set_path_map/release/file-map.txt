@@ -1,0 +1,12 @@
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-jetified-window-java-1.0.0-beta04-0 C:\Users\User\.gradle\caches\transforms-3\8798b633fcf50a9325849a8fb18c5813\transformed\jetified-window-java-1.0.0-beta04\res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-jetified-annotation-experimental-1.1.0-1 C:\Users\User\.gradle\caches\transforms-3\bf37e210e7cdbeaa4248f1c7a730c294\transformed\jetified-annotation-experimental-1.1.0\res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-jetified-window-1.0.0-beta04-2 C:\Users\User\.gradle\caches\transforms-3\c30eb3a3a3734934b3176d38ff4a782d\transformed\jetified-window-1.0.0-beta04\res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-core-1.6.0-3 C:\Users\User\.gradle\caches\transforms-3\dbb7d992d6d4e6a2ae928bf888e605ca\transformed\core-1.6.0\res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-main-4 C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_flutter_pdfviewer-20.4.54\android\src\main\res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-release-5 C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_flutter_pdfviewer-20.4.54\android\src\release\res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-pngs-6 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\syncfusion_flutter_pdfviewer\generated\res\pngs\release
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-resValues-7 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\syncfusion_flutter_pdfviewer\generated\res\resValues\release
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-rs-8 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\syncfusion_flutter_pdfviewer\generated\res\rs\release
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-mergeReleaseResources-9 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\syncfusion_flutter_pdfviewer\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-mergeReleaseResources-10 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\syncfusion_flutter_pdfviewer\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-merged_res-11 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\syncfusion_flutter_pdfviewer\intermediates\merged_res\release

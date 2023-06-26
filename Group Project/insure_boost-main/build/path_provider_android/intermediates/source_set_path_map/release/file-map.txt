@@ -1,0 +1,12 @@
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-java-1.0.0-beta04-0 C:\Users\User\.gradle\caches\transforms-3\8798b633fcf50a9325849a8fb18c5813\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-annotation-experimental-1.1.0-1 C:\Users\User\.gradle\caches\transforms-3\bf37e210e7cdbeaa4248f1c7a730c294\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-1.0.0-beta04-2 C:\Users\User\.gradle\caches\transforms-3\c30eb3a3a3734934b3176d38ff4a782d\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.pathprovider.path_provider_android-core-1.6.0-3 C:\Users\User\.gradle\caches\transforms-3\dbb7d992d6d4e6a2ae928bf888e605ca\transformed\core-1.6.0\res
+io.flutter.plugins.pathprovider.path_provider_android-main-4 C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.0.27\android\src\main\res
+io.flutter.plugins.pathprovider.path_provider_android-release-5 C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.0.27\android\src\release\res
+io.flutter.plugins.pathprovider.path_provider_android-pngs-6 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\path_provider_android\generated\res\pngs\release
+io.flutter.plugins.pathprovider.path_provider_android-resValues-7 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\path_provider_android\generated\res\resValues\release
+io.flutter.plugins.pathprovider.path_provider_android-rs-8 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\path_provider_android\generated\res\rs\release
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-9 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-10 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.pathprovider.path_provider_android-merged_res-11 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\path_provider_android\intermediates\merged_res\release

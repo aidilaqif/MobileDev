@@ -1,0 +1,24 @@
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-viewmodel-2.6.1-0 C:\Users\User\.gradle\caches\transforms-3\01575e58dc2b69487e31052cf10f5e16\transformed\lifecycle-viewmodel-2.6.1\res
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-livedata-core-2.6.1-1 C:\Users\User\.gradle\caches\transforms-3\1114169d6a26d5d9f694aebdf4e7aaeb\transformed\lifecycle-livedata-core-2.6.1\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-lifecycle-viewmodel-savedstate-2.6.1-2 C:\Users\User\.gradle\caches\transforms-3\125a00cde1b54a1e1faf8322a161c9af\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+io.flutter.plugins.imagepicker.image_picker_android-core-runtime-2.2.0-3 C:\Users\User\.gradle\caches\transforms-3\24c5f7e8cca163849512490807ab2781\transformed\core-runtime-2.2.0\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-activity-1.7.2-4 C:\Users\User\.gradle\caches\transforms-3\4d211a800928f0495c72afd88deecbf1\transformed\jetified-activity-1.7.2\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-window-java-1.0.0-beta04-5 C:\Users\User\.gradle\caches\transforms-3\8798b633fcf50a9325849a8fb18c5813\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-startup-runtime-1.1.1-6 C:\Users\User\.gradle\caches\transforms-3\8a72d0a7b9ae8a351efaab15e6c49f33\transformed\jetified-startup-runtime-1.1.1\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-core-ktx-1.10.1-7 C:\Users\User\.gradle\caches\transforms-3\8faa865f0bc6f8a7c5e9b7002005d143\transformed\jetified-core-ktx-1.10.1\res
+io.flutter.plugins.imagepicker.image_picker_android-core-1.10.1-8 C:\Users\User\.gradle\caches\transforms-3\97d8b8203f364ef259953db950f20e6f\transformed\core-1.10.1\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-annotation-experimental-1.3.0-9 C:\Users\User\.gradle\caches\transforms-3\a7742a2d22ce4983e544b057ef130ee6\transformed\jetified-annotation-experimental-1.3.0\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-window-1.0.0-beta04-10 C:\Users\User\.gradle\caches\transforms-3\c30eb3a3a3734934b3176d38ff4a782d\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-savedstate-1.2.1-11 C:\Users\User\.gradle\caches\transforms-3\df7c2ad924b707f5fde10af40cf83eb4\transformed\jetified-savedstate-1.2.1\res
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-runtime-2.6.1-12 C:\Users\User\.gradle\caches\transforms-3\efe86123df1aca09bf86567797d71d09\transformed\lifecycle-runtime-2.6.1\res
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-livedata-2.6.1-13 C:\Users\User\.gradle\caches\transforms-3\efe92e416df312ad10209e65a95d374e\transformed\lifecycle-livedata-2.6.1\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-profileinstaller-1.3.0-14 C:\Users\User\.gradle\caches\transforms-3\fc36242fcae4f6b50a6ff633ac2e38af\transformed\jetified-profileinstaller-1.3.0\res
+io.flutter.plugins.imagepicker.image_picker_android-main-15 C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.7+3\android\src\main\res
+io.flutter.plugins.imagepicker.image_picker_android-release-16 C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.7+3\android\src\release\res
+io.flutter.plugins.imagepicker.image_picker_android-packaged_res-17 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release
+io.flutter.plugins.imagepicker.image_picker_android-pngs-18 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\image_picker_android\generated\res\pngs\release
+io.flutter.plugins.imagepicker.image_picker_android-resValues-19 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\image_picker_android\generated\res\resValues\release
+io.flutter.plugins.imagepicker.image_picker_android-rs-20 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\image_picker_android\generated\res\rs\release
+io.flutter.plugins.imagepicker.image_picker_android-mergeReleaseResources-21 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\image_picker_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.imagepicker.image_picker_android-mergeReleaseResources-22 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\image_picker_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.imagepicker.image_picker_android-merged_res-23 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\image_picker_android\intermediates\merged_res\release

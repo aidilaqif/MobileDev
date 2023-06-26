@@ -1,0 +1,14 @@
+dev.fluttercommunity.plus.share.share_plus-jetified-core-ktx-1.9.0-0 C:\Users\User\.gradle\caches\transforms-3\4cc81f28192d4795f5a2caab80eff039\transformed\jetified-core-ktx-1.9.0\res
+dev.fluttercommunity.plus.share.share_plus-jetified-window-java-1.0.0-beta04-1 C:\Users\User\.gradle\caches\transforms-3\8798b633fcf50a9325849a8fb18c5813\transformed\jetified-window-java-1.0.0-beta04\res
+dev.fluttercommunity.plus.share.share_plus-jetified-annotation-experimental-1.3.0-2 C:\Users\User\.gradle\caches\transforms-3\a7742a2d22ce4983e544b057ef130ee6\transformed\jetified-annotation-experimental-1.3.0\res
+dev.fluttercommunity.plus.share.share_plus-lifecycle-runtime-2.3.1-3 C:\Users\User\.gradle\caches\transforms-3\ad7aa3733bb4f77deb1f902bb961bf86\transformed\lifecycle-runtime-2.3.1\res
+dev.fluttercommunity.plus.share.share_plus-jetified-window-1.0.0-beta04-4 C:\Users\User\.gradle\caches\transforms-3\c30eb3a3a3734934b3176d38ff4a782d\transformed\jetified-window-1.0.0-beta04\res
+dev.fluttercommunity.plus.share.share_plus-core-1.9.0-5 C:\Users\User\.gradle\caches\transforms-3\c8415123c78154afbc28c5658e7ea550\transformed\core-1.9.0\res
+dev.fluttercommunity.plus.share.share_plus-main-6 C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\share_plus-7.0.2\android\src\main\res
+dev.fluttercommunity.plus.share.share_plus-release-7 C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\share_plus-7.0.2\android\src\release\res
+dev.fluttercommunity.plus.share.share_plus-pngs-8 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\share_plus\generated\res\pngs\release
+dev.fluttercommunity.plus.share.share_plus-resValues-9 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\share_plus\generated\res\resValues\release
+dev.fluttercommunity.plus.share.share_plus-rs-10 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\share_plus\generated\res\rs\release
+dev.fluttercommunity.plus.share.share_plus-mergeReleaseResources-11 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\share_plus\intermediates\incremental\release\mergeReleaseResources\merged.dir
+dev.fluttercommunity.plus.share.share_plus-mergeReleaseResources-12 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\share_plus\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+dev.fluttercommunity.plus.share.share_plus-merged_res-13 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\share_plus\intermediates\merged_res\release

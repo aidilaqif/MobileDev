@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-play-services-basement-18.1.0-0 C:\Users\User\.gradle\caches\transforms-3\25dc677a896753b98e0eab71b4168723\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-play-services-base-18.0.1-1 C:\Users\User\.gradle\caches\transforms-3\7d07c245ac0e9227dc44c72c50371df7\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-window-java-1.0.0-beta04-2 C:\Users\User\.gradle\caches\transforms-3\8798b633fcf50a9325849a8fb18c5813\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-annotation-experimental-1.1.0-3 C:\Users\User\.gradle\caches\transforms-3\bf37e210e7cdbeaa4248f1c7a730c294\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-window-1.0.0-beta04-4 C:\Users\User\.gradle\caches\transforms-3\c30eb3a3a3734934b3176d38ff4a782d\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.storage.firebase_storage-core-1.6.0-5 C:\Users\User\.gradle\caches\transforms-3\dbb7d992d6d4e6a2ae928bf888e605ca\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-firebase-common-20.3.2-6 C:\Users\User\.gradle\caches\transforms-3\f09b98e2d0eaf942eff78c473e61a695\transformed\jetified-firebase-common-20.3.2\res
+io.flutter.plugins.firebase.storage.firebase_storage-main-7 C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-11.2.3\android\src\main\res
+io.flutter.plugins.firebase.storage.firebase_storage-release-8 C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-11.2.3\android\src\release\res
+io.flutter.plugins.firebase.storage.firebase_storage-packaged_res-9 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\firebase_core\intermediates\packaged_res\release
+io.flutter.plugins.firebase.storage.firebase_storage-pngs-10 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\firebase_storage\generated\res\pngs\release
+io.flutter.plugins.firebase.storage.firebase_storage-resValues-11 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\firebase_storage\generated\res\resValues\release
+io.flutter.plugins.firebase.storage.firebase_storage-rs-12 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\firebase_storage\generated\res\rs\release
+io.flutter.plugins.firebase.storage.firebase_storage-mergeReleaseResources-13 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\firebase_storage\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.storage.firebase_storage-mergeReleaseResources-14 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\firebase_storage\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.storage.firebase_storage-merged_res-15 D:\Sem 4 Subjects\Mobile Dev\Group Project\insure_boost-main\build\firebase_storage\intermediates\merged_res\release
